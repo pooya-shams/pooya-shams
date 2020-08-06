@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Pooya Shams kolahi and I'm a student of Allame-helli highschool in Tehran-Iran.
+My name is Pooya Shams kolahi and I'm a student of Allame-helli highschool in Tehran, Iran.
 
 here are some of my coolest projects:
 - [massspring](https://github.com/pooya-shams/massspring) : A physical simulator.
